@@ -2,7 +2,9 @@
 
 <p align="center">
   <br>
-  ![image](/uploads/09caec313cfa252aef4a285e9e5d7ff7/image.png)
+  
+  ![image](https://github.com/sangilji/mirror-view/assets/88275989/3be7f265-09f3-42c2-b7f4-20b8b3c58bea)
+
   <br>
 </p>
 
